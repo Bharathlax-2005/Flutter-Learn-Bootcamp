@@ -40,6 +40,9 @@ Visual Studio - develop Windows apps (Visual Studio Build
         Windows 10 SDK
 ```
 
+![err](https://github.com/gdsc-kits-admin/flutter-bootcamp-2024/assets/116173614/8dc9a3c0-ef29-41e1-9b80-948f01efc3dd)
+
+
 # Not having Visual Studio 2022 -- Installer download it &  it is not vs code 
 
 ![image](https://github.com/gdsc-kits-admin/flutter-bootcamp-2024/assets/116173614/44a3eb41-9e66-4845-a2b2-51cd34c22510)
